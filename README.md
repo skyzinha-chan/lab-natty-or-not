@@ -20,10 +20,13 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 #### 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/PodIA.mp3)
-[LINK PARA A DEFINIÇÃO DA TRILHA SONORA](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/Trilha%20Sonora/podcast%20-%20trilha%20sonora.md)
-[LINK PARA O ROTEIRO COM COPILOT](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/PodCast%20-%20Grava%C3%A7%C3%B5es/podcast%20-%20roteiro%20Copilot.md)
-[LINK PARA O ROTEIRO COM GEMINI](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/PodCast%20-%20Grava%C3%A7%C3%B5es/podcast%20-%20roteiro%20Gemini.md)
+- [LINK PARA O PODCAST AQUI](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/PodIA.mp3)
+
+- [LINK PARA A DEFINIÇÃO DA TRILHA SONORA](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/Trilha%20Sonora/podcast%20-%20trilha%20sonora.md)
+
+- [LINK PARA O ROTEIRO COM COPILOT](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/PodCast%20-%20Grava%C3%A7%C3%B5es/podcast%20-%20roteiro%20Copilot.md)
+
+- [LINK PARA O ROTEIRO COM GEMINI](https://github.com/skyzinha-chan/lab-natty-or-not/blob/main/FakeOrNatty/PodCast%20-%20Grava%C3%A7%C3%B5es/podcast%20-%20roteiro%20Gemini.md)
 
 #### 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
